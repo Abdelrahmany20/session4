@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Collections.Generic;
 using System.Numerics;
+using System.Diagnostics.Metrics;
 
 namespace Assignment4
 {
@@ -76,7 +77,15 @@ namespace Assignment4
 
             #endregion
 
+            #region Q05
+            // Write a program to allow the user to enter a string and print the REVERSE of it
 
+
+            Console.Write("Enter a string: ");
+            string input = Console.ReadLine();
+
+            string reversed = ReverseString(input);
+            #endregion
 
 
         }
