@@ -48,14 +48,31 @@ namespace Assignment4
 
             //for (int i = 1; i <= num; i++)
             //{
-                
-                //if (i % 2 == 0)
-                   //Console.WriteLine(i);
-                
+
+            //if (i % 2 == 0)
+            //Console.WriteLine(i);
+
             //}
 
 
 
+
+            #endregion
+
+            #region Q04
+
+            // Write a program that takes two integers then prints the power.
+
+            //Console.Write("Enter an num 1: ");
+            //int num1 =int.Parse(Console.ReadLine());
+
+            //Console.Write("Enter an num 2: ");
+            //int num2 = int.Parse(Console.ReadLine());
+
+
+            //double result;
+            //result=Math.Pow(num1,num2);
+            //Console.WriteLine(result);
 
             #endregion
 
