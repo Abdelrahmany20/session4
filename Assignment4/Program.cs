@@ -435,11 +435,13 @@ namespace Assignment4
             //for(int i =size-1;i>0;i--)
             //{
 
-             //array[i]=int.Parse(Console.ReadLine());
+            //array[i]=int.Parse(Console.ReadLine());
             //}
             //for (int i = size - 1; i >= 0; i--)
             //{
-                //Console.Write(array[i]);
+                //array.Reverse();
+
+               //Console.Write(array[i]);
             //}
 
 
