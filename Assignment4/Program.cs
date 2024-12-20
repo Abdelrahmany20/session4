@@ -3,6 +3,8 @@ using System.ComponentModel;
 using System.Collections.Generic;
 using System.Numerics;
 using System.Diagnostics.Metrics;
+using System.Linq;
+using System;
 
 namespace Assignment4
 {
@@ -81,13 +83,50 @@ namespace Assignment4
             // Write a program to allow the user to enter a string and print the REVERSE of it
 
 
-            Console.Write("Enter a string: ");
-            string input = Console.ReadLine();
+            //Console.Write("Enter a string: ");
+            //string input = Console.ReadLine();
 
-            string reversed = ReverseString(input);
+            //string reverse = new string(input.Reverse().ToArray());
+            //Console.WriteLine(reverse);
+            #endregion
+
+            #region Q06
+
+            // Write a program in C# Sharp to find prime numbers within a range of numbers.
+
+
+
+            //Console.Write("Enter Start Number: ");
+            //int start = int.Parse(Console.ReadLine());
+
+            //Console.Write("Enter End Number: ");
+            //int end = int.Parse(Console.ReadLine());
+
+
+            //for (int i = start; i < end; i++)
+
+            //{
+
+                    //if (isprime(i))
+                    //{
+                    //Console.WriteLine(i);
+                    //}
+            //}
+
+
+
+
+
+
+
+
             #endregion
 
 
+            
         }
+
+
     }
 }
+
